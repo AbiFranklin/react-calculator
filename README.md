@@ -3,7 +3,7 @@ Simple React Calculator is a basic calculator created while following the tutori
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshots
-![Screenshot 1](/src/screenshot1.png)   ![Screenshot 1](/src/screenshot2.png)
+![Screenshot 1](/src/calc1.png) ![Screenshot 1](/src/calc2.png)
 
 
 ## Available Scripts
