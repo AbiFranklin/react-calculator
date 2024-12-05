@@ -1,4 +1,4 @@
-2# Simple React Calculator
+# Simple React Calculator
 Simple React Calculator is a basic calculator created while following the tutorial by [Web Dev Simplified on YouTube](https://www.youtube.com/watch?v=DgRrrOt0Vr8).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
